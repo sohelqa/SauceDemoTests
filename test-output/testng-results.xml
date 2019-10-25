@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="39553" started-at="2019-10-24T21:20:46 EDT" finished-at="2019-10-24T21:21:26 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="39553" started-at="2019-10-24T21:20:46 EDT" finished-at="2019-10-24T21:21:26 EDT">
+      <class name="com.saucedemo.js.uitest.UITest">
+        <test-method status="PASS" signature="runTests()[pri:0, instance:com.saucedemo.js.uitest.UITest@53f65459]" name="runTests" duration-ms="21710" started-at="2019-10-24T21:20:46 EDT" finished-at="2019-10-24T21:21:08 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runTests -->
+        <test-method status="PASS" signature="runHeadlessTests()[pri:1, instance:com.saucedemo.js.uitest.UITest@53f65459]" name="runHeadlessTests" duration-ms="17715" started-at="2019-10-24T21:21:08 EDT" finished-at="2019-10-24T21:21:26 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runHeadlessTests -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:com.saucedemo.js.uitest.UITest@53f65459]" name="quitDriver" is-config="true" duration-ms="95" started-at="2019-10-24T21:21:26 EDT" finished-at="2019-10-24T21:21:26 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- com.saucedemo.js.uitest.UITest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
